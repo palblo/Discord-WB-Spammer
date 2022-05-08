@@ -15,6 +15,3 @@ git clone https://github.com/l0r3n7o00/DiscordWebhookSpammer.git
 
 ## enter the message to spam
 ![Cattura](https://user-images.githubusercontent.com/100297632/167306341-f725ffd9-e62e-4440-8b56-fc517c46eb3d.PNG)
-
- # screen
-![Cattura](https://user-images.githubusercontent.com/100297632/167306228-fd1dc6e3-8f8b-449f-874c-0556a1249288.PNG)
