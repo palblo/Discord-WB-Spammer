@@ -10,8 +10,12 @@ git clone https://github.com/l0r3n7o00/DiscordWebhookSpammer.git
  ```
  
 # use
-## enter the link
-![Cattura](https://user-images.githubusercontent.com/100297632/167306293-53eea4be-d2cc-44c8-9390-71a04250ca26.PNG)
+## insert the join speed
+![Cattura](https://user-images.githubusercontent.com/100297632/167307002-cc6d798a-19b4-4e68-88aa-ad57cbb56736.PNG)
 
-## enter the message to spam
-![Cattura](https://user-images.githubusercontent.com/100297632/167306341-f725ffd9-e62e-4440-8b56-fc517c46eb3d.PNG)
+## insert the address and the port
+![Cattura](https://user-images.githubusercontent.com/100297632/167307042-002e9fca-1607-4720-927a-59d319e6cc01.PNG)
+
+## enter the number of bots
+![Cattura](https://user-images.githubusercontent.com/100297632/167307053-f4a23b58-62b5-4590-9a1b-09addefe14be.PNG)
+
