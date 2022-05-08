@@ -6,7 +6,7 @@ pip3 install discord
 pip3 install pystyle
 ```
 ```sh
-git clone https://github.com/palblo/minecraftbots.git
+git clone https://github.com/palblo/DiscordWebhookSpammer.git
  ```
  
 # use
