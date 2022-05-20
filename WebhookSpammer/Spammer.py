@@ -11,7 +11,7 @@ print(Colorate.Horizontal(Colors.purple_to_red, '''
 
 Pąblo#4316 | https://github.com/palblo/SpotifyGen
 '''))
-9*
+
 print(Colorate.Horizontal(Colors.red_to_white, '''
 VERSION: V1.2
 NOTE : the message counter may not be accurate
